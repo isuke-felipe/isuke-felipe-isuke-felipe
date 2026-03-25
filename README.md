@@ -1,32 +1,24 @@
-<table>
-  <tr>
-    <td width="40%" align="center">
-      <img src="./assets/isuke-work.jpg"
-           alt="Linux penguin developer at the desk"
-           width="220" />
-    </td>
-    <td width="60%" valign="middle">
+<img src="./assets/isuke-work.jpg"
+     alt="Linux penguin developer at the desk"
+     align="left"
+     width="220"
+     style="margin-right: 16px;"/>
 
-      <!-- "Botão" de troca de idioma -->
-      <p align="right">
-        <a href="#português">
-          <img src="https://img.shields.io/badge/🇧🇷%20Português-success?style=for-the-badge" />
-        </a>
-        <a href="#english">
-          <img src="https://img.shields.io/badge/🇺🇸%20English-blue?style=for-the-badge" />
-        </a>
-      </p>
+<p align="right">
+  <a href="#português">
+    <img src="https://img.shields.io/badge/🇧🇷%20Português-success?style=for-the-badge" />
+  </a>
+  <a href="#english">
+    <img src="https://img.shields.io/badge/🇺🇸%20English-blue?style=for-the-badge" />
+  </a>
+</p>
 
-      <h1>Isuke Felipe</h1>
+<h1>Isuke Felipe</h1>
 
-      <p>
-        Desenvolvedor fullstack, game dev e entusiasta de infraestrutura Linux.<br/>
-        Building TRPGon, uma plataforma de VTT focada em TRPGs modernos.
-      </p>
+Desenvolvedor fullstack, game dev e entusiasta de infraestrutura Linux.  
+Building TRPGon, uma plataforma de VTT focada em TRPGs modernos.
 
-    </td>
-  </tr>
-</table>
+<br clear="left"/>
 
 ---
 
