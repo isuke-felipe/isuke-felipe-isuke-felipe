@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/20251213_193517006_iOS.jpeg" alt="Linux penguin developer at the desk" width="400" />
+  <img src="./assets/isuke-work.jpg" alt="Linux penguin developer at the desk" width="400" />
 </p>
 
 # Isuke Felipe
